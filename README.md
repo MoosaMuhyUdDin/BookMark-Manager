@@ -1,9 +1,9 @@
 # BookMark-Manager
 Only HTML 
 Using: 
-    Headings tags
+    1. Headings tags:
         *For headings
-    paragraph tags 
-        *For Moving to New line
-    Anker tags (with target attributes)
+    2. paragraph tags:
+        *For Moving to a New line
+    3. Anker tags (with target attributes):
         *For link to Website (for open in new Window)
